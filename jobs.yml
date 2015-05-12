@@ -1,0 +1,4 @@
+- job:
+    name: hello
+    builders:
+      - shell: 'echo hello'
